@@ -1,0 +1,2 @@
+  File "C:/Users/jose1/Desktop/cuadratica/form.py", line 72
+SyntaxError: (unicode error) 'utf-8' codec can't decode byte 0xf3 in position 6: invalid continuation byte
